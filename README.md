@@ -1,5 +1,6 @@
 Step - 1: Import or Establish the Datapoint in ROI in Google Earth Engine
 <img width="717" height="543" alt="Input for Classification" src="https://github.com/user-attachments/assets/b3748b57-722d-4318-850c-a38e15df39fe" />
+
 Step - 2: Write the Input.js in GEE Editor Box
 Step - 3: Get the CSV file from GEE and Write GEE.iypnb code in colab
 Step - 4: Get the Tif file back to GEE and import it to assests
